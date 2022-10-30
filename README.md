@@ -1,4 +1,5 @@
 # alvy_texts
 just texts share
 
-https://alvyexchange.loca.lt/
+normal user: https://alvyexchange.loca.lt/
+admin: https://alvyexchange.loca.lt/admin
